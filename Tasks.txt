@@ -1,0 +1,11 @@
+- Criar uma "validade" para as senhas, quando a senha passar dessa validade, sempre que
+a aplicação iniciar e o usuário não tiver atualizado a senha, vai aparecer uma mensagem;
+
+- Criar um sistema de validação da senha:
+    -Possui 8 ou mais caracteres, entre eles:
+        + Letras maiúsculas;
+        + Letras minúsculas;
+        + Números;
+    - Opção de converter essa senha em Hash (caso a senha for validada)
+
+- Criar um histórico de tudo o que ocorre na aplicação(apresentando hora e ação efetuada)
